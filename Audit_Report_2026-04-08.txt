@@ -1,0 +1,12 @@
+--- Network Device Audit Report ---
+
+Device: router1
+- Telnet Status: Connection failed
+- HTTP Server Status: Connection failed
+- SNMP Status: Connection failed
+
+Device: router2
+- Telnet Status: Connection failed
+- HTTP Server Status: Connection failed
+- SNMP Status: Connection failed
+
